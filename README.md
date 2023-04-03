@@ -6,11 +6,11 @@ Hello! My name is Mark, and I am a passionate and creative web developer. My jou
 
 <p align="left">
       <a href="https://www.markgowen.dev">
-         <img alt="website" title="My personal website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white/"></a> 
+         <img alt="website" title="My personal website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a> 
       <a href="https://medium.com/@mark.gowen78">
-         <img alt="medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+         <img alt="medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a> 
       <a href="https://www.linkedin.com/in/markgowen/">
-         <img alt="linkedin" title="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+         <img alt="linkedin" title="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
    </p>
 
 ---
