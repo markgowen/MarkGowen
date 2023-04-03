@@ -5,12 +5,12 @@
 Hello! My name is Mark, and I am a passionate and creative web developer. My journey in the tech world began in 2012 when I took my first web development course at a community college. It was there where I discovered my love for coding and my interest in building beautiful and user-friendly web applications.
 
 <p align="left">
-      <a href="https://www.markgowen.dev">
-         <img alt="website" title="My personal website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a> 
-      <a href="https://medium.com/@mark.gowen78">
-         <img alt="medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/></a> 
-      <a href="https://www.linkedin.com/in/markgowen/">
-         <img alt="linkedin" title="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a> 
+      <a href="https://www.markgowen.dev" target="_blank">
+         <img alt="website" title="My personal website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> 
+      <a href="https://medium.com/@mark.gowen78" target="_blank">
+         <img alt="medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+      <a href="https://www.linkedin.com/in/markgowen/" target="_blank">
+         <img alt="linkedin" title="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 
 ---
