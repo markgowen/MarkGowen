@@ -9,6 +9,8 @@ Hello! My name is Mark, and I am a passionate and creative web developer. My jou
          <img alt="website" title="My personal website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white/"></a> 
       <a href="https://medium.com/@mark.gowen78">
          <img alt="medium" title="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+      <a href="https://www.linkedin.com/in/markgowen/">
+         <img alt="linkedin" title="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    </p>
 
 ---
