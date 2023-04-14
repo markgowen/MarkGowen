@@ -1,6 +1,6 @@
 # Mark Gowen
 
-**`Digital Craftsman (Software Engineer/Photographer/Designer)`**
+**`Digital Craftsman (Software Engineer/Photographer)`**
 
 Hello! My name is Mark, and I am a passionate and creative web developer. My journey in the tech world began in 2012 when I took my first web development course at a community college. It was there where I discovered my love for coding and my interest in building beautiful and user-friendly web applications.
 
